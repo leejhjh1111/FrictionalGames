@@ -1,0 +1,21 @@
+
+
+section{
+    width: 100%;
+    overflow: hidden;
+}
+
+section .i_slide{
+    max-width: 1740px;
+    margin-left: 100px;
+    padding: 50px 20px;
+    background-color: rgb(255, 214, 214);
+    
+}
+
+ .box{
+    height: 300px;
+    background-color: sandybrown;
+    margin-right: 30px;
+}
+
